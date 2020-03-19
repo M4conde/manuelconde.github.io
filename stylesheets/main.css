@@ -108,7 +108,7 @@ div#preloader.fluidview {
 }
 
 #status {
-    width: 151px;
+    width: 60px;
     height: 52px;
     position: fixed;
     left: 50%;
@@ -116,7 +116,7 @@ div#preloader.fluidview {
     background-image: url(../images/loader.png);
     background-repeat: no-repeat;
     background-position: center;
-    background-size: 151px 52px;
+    background-size: 60px 52px;
     margin: -26px 0 0 -75px;
 }
 
