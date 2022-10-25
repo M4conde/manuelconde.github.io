@@ -77,8 +77,8 @@
   /* fix for flashing background */
   -webkit-transform: translate3d(0px, 0px, 0px);
 }
-.owl-carousel .owl-controls .owl-nav .owl-prev,
-.owl-carousel .owl-controls .owl-nav .owl-next,
+.owl-carousel .owl-controls .owl-nav .owl-prev .owl-prev-light,
+.owl-carousel .owl-controls .owl-nav .owl-next .owl-next-light,
 .owl-carousel .owl-controls .owl-dot {
   cursor: pointer;
   cursor: hand;
@@ -258,36 +258,36 @@
   top: 50%;
   margin-top: -30px;
 }
-.owl-nav-sticky-wide .owl-prev{
+.owl-nav-sticky-wide .owl-prev .owl-prev-light{
   left: 10px;
 }
-.owl-nav-sticky-wide .owl-next{
+.owl-nav-sticky-wide .owl-next .owl-next-light{
   right: 10px;
 }
 
-.owl-nav-sticky-extra-wide .owl-prev{
+.owl-nav-sticky-extra-wide .owl-prev .owl-prev-light{
   left: -60px;
 }
-.owl-nav-sticky-extra-wide .owl-next{
+.owl-nav-sticky-extra-wide .owl-next .owl-next-light{
   right: -60px;
 }
-.owl-nav-sticky-center .owl-prev{
+.owl-nav-sticky-center .owl-prev .owl-prev-light{
   margin-left: -60px !important;
 }
-.owl-nav-sticky-center .owl-next{
+.owl-nav-sticky-center .owl-next .owl-next-light{
   margin-right: -60px !important;
 }
 
-.owl-nav-sticky-left .owl-prev{
+.owl-nav-sticky-left .owl-prev .owl-prev-light{
   left: 20px;
 }
-.owl-nav-sticky-left .owl-next{
+.owl-nav-sticky-left .owl-next .owl-next-light{
   left: 120px;
 }
-.owl-nav-sticky-right .owl-prev{
+.owl-nav-sticky-right .owl-prev .owl-prev-light{
   right: 120px;
 }
-.owl-nav-sticky-right .owl-next{
+.owl-nav-sticky-right .owl-next .owl-next-light{
   right: 20px;
 }
 .owl-theme .owl-controls .owl-nav [class*="owl-"]{
