@@ -242,6 +242,14 @@
   top: 50%;
   margin-top: -30px;
 }
+.owl-next-light{
+  position: absolute;
+  width: 60px;
+  height: 60px;
+  background: transparent url(../images/next-light.png) no-repeat center center !important;
+  top: 50%;
+  margin-top: -30px;
+}
 .owl-nav-sticky-wide .owl-prev{
   left: 10px;
 }
